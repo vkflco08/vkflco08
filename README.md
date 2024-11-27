@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+&nbsp;&nbsp;
 
-
-![vkflco08's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkflco08&show_icons=true&theme=radical)
+![vkflco08's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkflco08&show_icons=true&theme=radical)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkflco08&layout=compact)
 
 <!--
