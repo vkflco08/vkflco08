@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm vkflco08 👋</h1>
+<h1 align="center">Hi, I'm SeungBin Jo 👋</h1>
 
 <p align="center">
   Passionate about backend development, cloud computing, and system architecture.
