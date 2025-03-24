@@ -31,11 +31,6 @@
 
 ---
 
-## 최근 작성한 Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vkflco08)](https://velog.io/@vkflco08)
-
----
-
 ## 📫 Get in Touch
 <div align="center">
   <a href="https://velog.io/@vkflco08">
@@ -43,6 +38,9 @@
   </a>
   <a href="mailto:vkflco8080@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vkflco08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
