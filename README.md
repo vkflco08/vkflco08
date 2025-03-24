@@ -31,6 +31,11 @@
 
 ---
 
+## 최근 작성한 Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vkflco08)](https://velog.io/@vkflco08)
+
+---
+
 ## 📫 Get in Touch
 <div align="center">
   <a href="https://velog.io/@vkflco08">
